@@ -23,7 +23,7 @@ function setup() {
 	ground = new Ground(600,790,1200,20)
 	wall1 = new Ground(10,400,20,800);
 	wall2 = new Ground(1190,400,20,800);
-	bin = new Bin(650,770,150,80)
+	bin = new Bin(650,770,100,100)
 	paper = new Paper(50,600,20);
 
 
